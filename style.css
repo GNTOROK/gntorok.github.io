@@ -99,3 +99,7 @@ img {
     color: white;
     text-decoration: none;
 }
+
+#message {
+    color: red;
+}
